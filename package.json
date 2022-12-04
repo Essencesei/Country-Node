@@ -1,0 +1,14 @@
+{
+  "name": "country-node",
+  "version": "1.0.0",
+  "description": "A node project using restAPI country",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Jonathan Dumlao",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
